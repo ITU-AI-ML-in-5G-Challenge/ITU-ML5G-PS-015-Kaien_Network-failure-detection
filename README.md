@@ -1,8 +1,8 @@
 # ITU-ML5G-PS-015-Kaien_Network-failure-detection
 
-Team: Kaien
+## Team: Kaien
 
-Members:
+## Members:
 Kaien ABE (Kobe University)
 Yoshiaki SHIRAISHI (Kobe University)
 
