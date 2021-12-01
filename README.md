@@ -3,7 +3,7 @@
 ## Team: Kaien
 
 ## Members:
-Kaien ABE (Kobe University) 
+Kaien ABE (Kobe University)  and 
 Yoshiaki SHIRAISHI (Kobe University)
 
 ## Slides:
